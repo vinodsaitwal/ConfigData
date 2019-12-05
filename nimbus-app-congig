@@ -1,0 +1,3 @@
+nimbus.catalog.service.url=http://localhost:8010
+nimbus.account.service.url=http://localhost:8020
+nimbus.order.service.url=http://localhost:8030
